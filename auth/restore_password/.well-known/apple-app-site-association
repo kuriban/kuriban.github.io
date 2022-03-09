@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "LU25GNVPQV.com.finmap.my",
+        "paths": [ "/kuriban.github.io/", "/kuriban.github.io/auth/restore_password/" ]
+      }
+    ]
+  }
+}
