@@ -5,7 +5,7 @@
       "appID": "LU25GNVPQV.com.finmap.my",
       "paths": [
         "/qa.finmap.online/auth/restore_password/*",
-        "/kuriban.github.io/"
+        "/kuriban.github.io/",
         "/kuriban.github.io/auth/restore_password/"
       ]
     }]
