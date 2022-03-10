@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "LU25GNVPQV.com.finmap.my",
-        "paths": [ "/auth/restore_password/*" ]
+        "paths": [ "*", '/' ]
       }
     ]
   }
